@@ -1,3 +1,2 @@
-# odin-recipes
-create index.html
-create recepies folder and img
+# odin-recipes_HTML/CSS
+This is my first Odin Project
